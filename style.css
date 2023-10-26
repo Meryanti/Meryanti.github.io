@@ -154,6 +154,7 @@
                                                                                                                                                 }
                                                                                                                                                 
                                                                                                                                                 .btn {
+                                                                                                                                                    margin-top: 10px;
                                                                                                                                                     display: inline-block;
                                                                                                                                                     padding: 11px 26px;
                                                                                                                                                     background: var(--main-color);
