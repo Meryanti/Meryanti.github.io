@@ -112,8 +112,8 @@
                                                                                                                                                 }
                                                                                                                                                 
                                                                                                                                                 .main-content h1 {
-                                                                                                                                                    font-size: var(--h2-font);
-                                                                                                                                                    font-weight: 900px;
+                                                                                                                                                    font-size: var(--h1-font);
+                                                                                                                                                    font-weight: 450px;
                                                                                                                                                     margin: 20px 0px 20px;
                                                                                                                                                     line-height: 1.2;
                                                                                                                                                 }
