@@ -518,7 +518,7 @@
                                                                                                                                                     .navlist {
                                                                                                                                                         position: absolute;
                                                                                                                                                         top: 100%;
-                                                                                                                                                        right: -200;
+                                                                                                                                                        right: -100px;
                                                                                                                                                         width: 255px;
                                                                                                                                                         min-height: 100vh;
                                                                                                                                                         display: flex;
