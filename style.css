@@ -481,17 +481,6 @@
                                                                                                                                                     .box h3 {
                                                                                                                                                         font-size: 21px;
                                                                                                                                                     }
-                                                                                                                                                   .navlist {
-                                                                                                                                                        position: absolute;
-                                                                                                                                                        top: 100%;
-                                                                                                                                                        right: -100;
-                                                                                                                                                        width: 255px;
-                                                                                                                                                        min-height: 100vh;
-                                                                                                                                                        display: flex;
-                                                                                                                                                        flex-direction: column;
-                                                                                                                                                        background: var(--bg-color);
-                                                                                                                                                        transition: all .50s ease;
-                                                                                                                                                    }
                                                                                                                                                 }
                                                                                                                                                 
                                                                                                                                                 @media (max-width: 1240px) {
@@ -529,7 +518,7 @@
                                                                                                                                                     .navlist {
                                                                                                                                                         position: absolute;
                                                                                                                                                         top: 100%;
-                                                                                                                                                        right: -100;
+                                                                                                                                                        right: 0;
                                                                                                                                                         width: 255px;
                                                                                                                                                         min-height: 100vh;
                                                                                                                                                         display: flex;
