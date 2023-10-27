@@ -510,22 +510,26 @@
                                                                                                                                                         grid-template-columns: 1fr;
                                                                                                                                                         gap: 2rem;
                                                                                                                                                         text-align: center;
-                                                                                                                                                    }
-                                                                                                                                                    .about-img {
-                                                                                                                                                        text-align: center;
-                                                                                                                                                        width: 100%;
-                                                                                                                                                        height: 100px;
-                                                                                                                                                        max-width: 100px;
-                                                                                                                                                        border-radius: 50%;
-                                                                                                                                                        object-fit: cover;
-                                                                                                                                                        margin: 0 auto;
-                                                                                                                                                    }
+                                                                                                                                                
                                                                                                                                                      :root {
                                                                                                                                                         --h1-font: 2rem;
                                                                                                                                                         --h2-font: 1.5rem;
                                                                                                                                                         --p-font: 15px;
                                                                                                                                                     }
-                                                                                                                                                  .navlist {
+                                                                                                                                                 
+                                                                                                                                                }
+                                                                                                                                                
+                                                                                                                                                @media (max-width: 950px) {
+                                                                                                                                                     :root {
+                                                                                                                                                        --h1-font: 2rem;
+                                                                                                                                                    }
+                                                                                                                                                    .social {
+                                                                                                                                                        margin-bottom: 20px;
+                                                                                                                                                    }
+                                                                                                                                                    #menu-icon {
+                                                                                                                                                        display: block;
+                                                                                                                                                    }
+                                                                                                                                                   .navlist {
                                                                                                                                                         position: absolute;
                                                                                                                                                         top: 100%;
                                                                                                                                                         right: -255px;
@@ -544,24 +548,12 @@
                                                                                                                                                     .navlist.active {
                                                                                                                                                         right: 0;
                                                                                                                                                     }
-                                                                                                                                                }
-                                                                                                                                                
-                                                                                                                                                @media (max-width: 950px) {
-                                                                                                                                                     :root {
-                                                                                                                                                        --h1-font: 2rem;
-                                                                                                                                                    }
-                                                                                                                                                    .social {
-                                                                                                                                                        margin-bottom: 20px;
-                                                                                                                                                    }
-                                                                                                                                                    #menu-icon {
-                                                                                                                                                        display: block;
-                                                                                                                                                    }
                                                                                                                                                   }
                                                                                                                                                   .about-img {
                                                                                                                                                         text-align: center;
                                                                                                                                                         width: 100%;
-                                                                                                                                                        height: 10px;
-                                                                                                                                                        max-width: 10px;
+                                                                                                                                                        height: 50px;
+                                                                                                                                                        max-width: 50px;
                                                                                                                                                         border-radius: 50%;
                                                                                                                                                         object-fit: cover;
                                                                                                                                                         margin: 0 auto;
@@ -582,8 +574,8 @@
                                                                                                                                                     .about-img {
                                                                                                                                                         text-align: center;
                                                                                                                                                         width: 100%;
-                                                                                                                                                        height: 10px;
-                                                                                                                                                        max-width: 10px;
+                                                                                                                                                        height: 50px;
+                                                                                                                                                        max-width: 50px;
                                                                                                                                                         border-radius: 50%;
                                                                                                                                                         object-fit: cover;
                                                                                                                                                         margin: 0 auto;
