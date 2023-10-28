@@ -545,14 +545,19 @@
                                                                                                                                                   .about-img img{
                                                                                                                                                         text-align: center;
                                                                                                                                                         width: 50%;
-                                                                                                                                                        height: 100px;
-                                                                                                                                                        max-width: 100px;
+                                                                                                                                                        height: 300px;
+                                                                                                                                                        max-width: 300px;
                                                                                                                                                         border-radius: 50%;
                                                                                                                                                         object-fit: cover;
                                                                                                                                                         margin: 0 auto;
                                                                                                                                                     }
+                                                                                                                                                  :root {
+                                                                                                                                                      
+                                                                                                                                                        --h2-font: 1.5rem;
+                                                                                                                                                        --p-font: 15px;
+                                                                                                                                                    }
                                                                                                                                                 }
-                                                                                                                                                }
+                                                                                                                                                
                                                                                                                                                 
                                                                                                                                                 @media (max-width: 470px) {
                                                                                                                                                      :root: {
