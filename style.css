@@ -566,8 +566,8 @@
                                                                                                                                                     }
                                                                                                                                                      .about-img img{
                                                                                                                                                         text-align: center;
-                                                                                                                                                        width: 30%;
-                                                                                                                                                        height: 30%;
+                                                                                                                                                        width: 100%;
+                                                                                                                                                        height: 100%;
                                                                                                                                                         max-width: 100px;
                                                                                                                                                         border-radius: 50%;
                                                                                                                                                         object-fit: cover;
